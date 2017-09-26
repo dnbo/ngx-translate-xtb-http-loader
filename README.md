@@ -1,0 +1,1 @@
+# ngx-translate-xtb-http-loader
